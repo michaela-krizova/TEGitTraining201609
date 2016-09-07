@@ -4,7 +4,7 @@ Ctvrty commit
 
 Tohle by mela byt prvni zmena kterou si checkoutnete
 
-Paty commit
+Battlefield.
 
 Tohle by mel byt prvni commit co dneska pushnu
 
